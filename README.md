@@ -37,7 +37,7 @@ Rooms are split vertically, on the left side there is a *threaded chat* (enabled
      
 In the *Agora admin panel* the admin user can delete or modify the rooms.     
      
-### Installation guide
+### Installation guide 
 
 To install *Agora* plugin:
 
